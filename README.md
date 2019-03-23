@@ -2,4 +2,4 @@
 Tutorial
 
 I was living under the rock. 
-Starting guthub this late.
+Starting github this late.
